@@ -1,3 +1,4 @@
+![image](https://github.com/JASUR2007/store_level_1/assets/62153427/098b3d1b-815e-4f9d-b868-a82f8137ba99)
 ![image](https://github.com/JASUR2007/store_level_1/assets/62153427/3cb433c3-196f-401c-9c80-b7cbad5fd102)
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
