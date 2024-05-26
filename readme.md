@@ -1,7 +1,7 @@
 ![image](https://github.com/JASUR2007/store_level_1/assets/62153427/3cb433c3-196f-401c-9c80-b7cbad5fd102)
 ![image](https://github.com/JASUR2007/store_level_1/assets/62153427/d2f90b05-5a02-4a74-98f5-64086797e7c2)
 ![image](https://github.com/JASUR2007/store_level_1/assets/62153427/880e013b-8dfe-4110-b17f-2c3fa7b3f134)
-<p>Phone version</p>
+<p align="center">Phone version</p>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
